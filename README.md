@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kkaushiki](https://github.com/kkaushiki)
 
-- 💬 Ask me about **SQL,Excel,Power Bi,Python**
+- 💬 Ask me about **SQL,Excel,Power BI,Python**
 
 - 📫 How to reach me **kaushikikumari03@gmail.com**
 
